@@ -1,5 +1,8 @@
 # Todos
 
+-   [ ] Look up additional projects which may already provide code snippet / node managers to get ideas
+    -   [ ] [pieces.app](https://pieces.app/)
+    -   [ ] [pieces.app cli](https://code.pieces.app/updates/new-pieces-cli-for-macos)
 -   [ ] Research how to deploy / install a cli tool so that it can be used globally from the command line
 -   [ ] Research languages to use for CLI tool (Go or Python?)
 -   [ ] Research how to enter multi-line strings and save them
